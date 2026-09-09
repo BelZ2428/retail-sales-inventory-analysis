@@ -1,6 +1,6 @@
 # Retail Sales & Inventory Performance Analysis
 
-## Project Overview
+## Project Overview 
 
 This project presents an end-to-end retail analytics solution for Maven Toys, a toy store chain operating across Mexico.
 
