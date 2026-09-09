@@ -36,8 +36,9 @@ The analysis is organized around three main objectives:
 
 The analysis uses the **Mexico Toy Sales** dataset published by Maven Analytics.
 
-Original dataset: Maven Analytics Data Playground — Mexico Toy Sales.
+**Source:** [Maven Analytics Data Playground — Mexico Toy Sales](https://mavenanalytics.io/data-playground/mexico-toy-sales)
 
+**License:** Public Domain
 The dataset contains sales and inventory data for **Maven Toys**, a fictitious toy store chain operating across Mexico. It includes sales transactions, product information, store attributes, and a current inventory snapshot.
 
 The sales data covers the period from **January 2022 through September 2023**.
