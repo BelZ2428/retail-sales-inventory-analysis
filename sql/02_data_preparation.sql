@@ -8,7 +8,6 @@
 -- =========================================================
 
 CREATE SCHEMA IF NOT EXISTS analytics;
-CREATE SCHEMA IF NOT EXISTS analytics;
 
 -- =========================================================
 -- 1. PRODUCT DIMENSION
