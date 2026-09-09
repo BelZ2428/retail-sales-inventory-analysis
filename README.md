@@ -7,6 +7,7 @@ This project presents an end-to-end retail analytics solution for Maven Toys, a 
 Using PostgreSQL and Power BI, the project combines historical sales data with a current inventory snapshot to evaluate sales performance, profitability, and inventory efficiency across stores and product categories.
 
 The final Power BI report provides management with two connected analytical views: Sales Performance and Inventory Analysis. Together, they enable users to monitor commercial performance, analyze recent sales velocity, estimate inventory coverage, and identify products that may require inventory action.
+![Sales Performance Dashboard](images/sales_performance_dashboard.png)
 
 ## 1. Business Problem
 
