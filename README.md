@@ -680,5 +680,11 @@ retail-sales-inventory-analysis/
 │   ├── inventory_analysis_dashboard.png
 │   └── data_model.png
 │
-└── data/
-    └── README.md
+└── raw/
+│   ├── calendar.csv
+│   ├── data_dictionary.csv
+│   ├── inventory.csv
+│   ├── products.csv
+│   ├── sales.csv
+│   └── stores.csv
+
